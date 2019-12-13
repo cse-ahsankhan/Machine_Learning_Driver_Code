@@ -25,4 +25,4 @@
 * Classification with Ada Boost Classifier()
 
 <br>
-<i><a href = "https://github.com/Mystic-Valley">Shushrut Gupta</a></i>
+<i>In collaboration with<a href = "https://github.com/Mystic-Valley">Shushrut Gupta</a></i>
