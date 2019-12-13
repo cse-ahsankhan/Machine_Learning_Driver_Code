@@ -24,5 +24,5 @@
 * Classification with Gaussian NB Classifier()
 * Classification with Ada Boost Classifier()
 
-
-* In collaboration with [Shusrut Gupta](https://github.com/Mystic-Valley). *
+<br>
+*In collaboration with [Shusrut Gupta](https://github.com/Mystic-Valley).*
