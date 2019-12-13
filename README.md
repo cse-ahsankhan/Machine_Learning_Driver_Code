@@ -6,6 +6,7 @@
 
 <img src = '2classi.png'> Classification
 ### Pre Processed with Standard Scaling and Label Encoding.
+Install the required packages from the <b>requirements.txt</b> file by running `pip install -r requirements.txt`
 ## Algorithms used for Feature Extraction :
 * Recursive Feature Extraction using XGB Classifier
 * Recursive Feature Extraction using LGBM Classifier
