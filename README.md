@@ -1,4 +1,4 @@
-# Machine_Learning_Driver_Code(Only for Supervised CLassification)
+# Machine_Learning_Driver_Code(Only for Supervised Classification)
 
 
 <img src = '1rfe.png'> Recursive Feature Selection
