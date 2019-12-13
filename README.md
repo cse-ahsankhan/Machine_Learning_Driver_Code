@@ -2,11 +2,11 @@
 
 
 <img src = '1rfe.png'> Recursive Feature Selection
-## It is a simple set of of functions that can be used to create a predictive model while training on a dataset using devearl different training algorithms and pre processing techniques.
+## It is a simple set of of functions that can be used to create a predictive model while training on a dataset using several different training algorithms and pre processing techniques.
 
 <img src = '2classi.png'> Classification
 ### Pre Processed with Standard Scaling and Label Encoding.
-## Algorithms for Feature Extraction :
+## Algorithms used for Feature Extraction :
 * Recursive Feature Extraction using XGB Classifier
 * Recursive Feature Extraction using LGBM Classifier
 * Recursive Feature Extraction using Random Forest Classifier
