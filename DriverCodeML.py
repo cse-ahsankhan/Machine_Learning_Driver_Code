@@ -24,7 +24,6 @@ from sklearn.naive_bayes import GaussianNB
 from xgboost import XGBClassifier, XGBRegressor
 from sklearn.neural_network import MLPClassifier, MLPRegressor
 from lightgbm import LGBMClassifier, LGBMRegressor
-from imblearn.over_sampling import SMOTE
 
 from sklearn.metrics import accuracy_score, explained_variance_score, mean_squared_error, mean_absolute_error, classification_report, roc_curve
 from math import sqrt
